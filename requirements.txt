@@ -1,0 +1,6 @@
+anthropic
+google-generativeai
+streamlit
+python-dotenv
+Pillow
+pyperclip
